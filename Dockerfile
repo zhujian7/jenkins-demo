@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM insight.caicloudprivatetest.com/library/openjdk:8-jre-alpine3.8
 
 #构建参数
 ARG JAR_FILE
